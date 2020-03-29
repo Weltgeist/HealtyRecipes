@@ -17,3 +17,11 @@ img {
 p {
   color: gray;
 }
+
+.external-link {
+  color: seagreen;
+}
+
+h1, h2 ,p , li {
+  font-family: Helvetica;
+}
