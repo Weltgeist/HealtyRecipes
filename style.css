@@ -25,3 +25,7 @@ p {
 h1, h2 ,p , li {
   font-family: Helvetica;
 }
+
+body {
+  background-image: url(https://previews.123rf.com/images/romastudio/romastudio1603/romastudio160300203/54088672-healthy-food-background-studio-photo-of-different-fruits-and-vegetables-on-white-wooden-table-high-r.jpg);
+}
